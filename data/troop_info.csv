@@ -1,0 +1,7 @@
+troop,health,damage,attack_speed,sizex,sizey,speed,img,radius,attack_sound,death_sound
+barbarian,54,11,1000,0.5,1,150,imgs/Barb.png,5,None,None
+archer,23,9,1000,0.5,1,95,imgs/Archer.png,44,None,None
+giant,300,22,2000,1.25,1.75,200,imgs/Giant.png,5,None,None
+goblin,25,11,1000,0.5,0.75,65,imgs/Goblin.png,5,None,None
+wall_breaker,20,6,1000,0.5,0.75,95,imgs/Wall_Breaker.png,5,None,None
+balloon,150,75,3000,0.75,1,230,imgs/Balloon.png,5,None,None

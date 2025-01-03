@@ -1,0 +1,7 @@
+name,health,agressive,damage,damage_time,damage_radius,resources_g,resources_e,sizex,sizey,img,attacked_sound
+Gold_Mine,400,0,0,0,0,1000,0,3,3,imgs/Gold_Mine.png,None
+Wall,300,0,0,0,0,0,0,1,1,imgs/Wall.png,None
+Town_Hall,1600,0,0,0,0,1000,1000,4,4,imgs/Town_Hall.png,None
+Elixar_Collector,400,0,0,0,0,0,1000,3,3,imgs/Elixar_Collector.png,None
+Cannon,420,1,7.2,800,9,0,0,3,3,imgs/Cannon.png,None
+Archer_Tower,380,1,5.5,500,10,0,0,3,3,imgs/Archer_Tower.png,None
